@@ -143,6 +143,7 @@ aside{
     border-radius: 10px;
     padding: 10px;
     margin: 15px;
+    margin-bottom: 1px;
 }
 
 header#extra{
@@ -176,6 +177,8 @@ abbr{
 
 p#final{
     height: 36px;
+    margin-top: 8px;
+    margin-bottom: 1px;
 }
 
 footer{
