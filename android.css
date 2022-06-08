@@ -24,7 +24,10 @@
 body{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
-    margin: auto;
+    margin: 0px;
+    min-width: 500px;
+    max-width: 3050px;
+
 }
 
 header#título{
