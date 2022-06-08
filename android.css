@@ -24,7 +24,7 @@
 body{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
-    margin: 0px;
+    margin: auto;
 }
 
 header#título{
