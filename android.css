@@ -25,9 +25,6 @@ body{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
     margin: 0px;
-    min-width: 700px;
-    max-width: 3050px;
-
 }
 
 header#título{
